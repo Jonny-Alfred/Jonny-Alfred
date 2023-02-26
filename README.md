@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning: Portugol Studio and soon I will start studying JAVA
 - 🤔 I’m looking for help with: JAVA codes
-- 📫 How to reach me: I dunno
 - ⚡ Fun fact: No facts.
 
 - //////
